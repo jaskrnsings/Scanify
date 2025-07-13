@@ -29,5 +29,5 @@
 Clone the repo:
 
 ```bash
-git clone https://github.com/yourusername/scanify.git
+git clone https://github.com/jaskrnsings/scanify.git
 cd scanify
